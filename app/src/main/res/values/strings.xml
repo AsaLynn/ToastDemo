@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToastDemo</string>
+    <string name="text_01">长时间吐司字符串资源</string>
+</resources>
